@@ -17,6 +17,7 @@ public partial class Purchase
 
     public int? Pnum { get; set; }
 
+
     public string? Pfactory { get; set; }
 
     public double? Pprice { get; set; }
