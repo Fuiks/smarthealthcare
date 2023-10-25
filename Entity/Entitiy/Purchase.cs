@@ -15,6 +15,7 @@ public partial class Purchase
 
     public string? Pdesc { get; set; }
 
+
     public int? Pnum { get; set; }
 
 
